@@ -1,11 +1,11 @@
 # Leetcode
 Documenting all of the leetcode questions that I've solved so far
 
-## Easy
+### Easy Questions
 Solved Question Count = 002
 
-## Medium
+### Medium Questions
 Solved Question Count = 000
 
-## Hard 
+### Hard Questions
 Solved Question Count = 000
