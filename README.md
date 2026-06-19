@@ -2,13 +2,13 @@
 All of the leetcode questions that I've solved so far
 ---
 
-##Easy
+## Easy
 Solved Question Count = 002
 ---
 
-##Medium
+## Medium
 Solved Question Count = 000
 ---
 
-##Hard 
+## Hard 
 Solved Question Count = 000
