@@ -34,4 +34,5 @@ therefore the condition is while(x!=0)
 The question states that the rev val should not go out of the reange [-231, 231 - 1], therefore ive make two variables
 with those values and compare them to the rev value, is they go out of bound, we are supposed to return 0;
     We can also use the inbuilt macro, INT_MAX and INT_MIN, these are part of the limits.h header file.
+    So either the INT_MAX and INT_MIN or the myself declared variables!
 */
